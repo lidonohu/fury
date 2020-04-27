@@ -329,3 +329,4 @@ def prim_superquadric(roundness=(1, 1), sphere_name='symmetric362'):
     vertices = np.ascontiguousarray(xyz)
 
     return vertices, sphere_triangles
+
